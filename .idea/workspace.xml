@@ -1,70 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97d497a6-6819-4740-8650-c2a41417dc99" name="Default" comment="initial">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/shape/BasicShape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/shape/ElementShape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/model/FractalRenderState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/model/FractalShape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/model/FractalShapeLibrary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FractalShapeMaker.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/FractalShapeMaker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/FractalShapeViewer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/FractalShapeViewerFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/L-system.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/shape/SEllipse2D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/shape/SGeneralPath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/transformation/ToolTIRotate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/transformation/ToolTIScale.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/transformation/ToolTIScaleXY.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/transformation/ToolTITranslate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/ToolTItemList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/ToolTList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/ToolTRow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/ToolsFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/ToolsFrame_AboutBox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/ToolsShapeList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/ToolsShapePanel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/gui/ToolsShapeRowPanel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/transformation/Transformation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/transformation/TransformationRotate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/transformation/TransformationScale.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/transformation/TransformationScaleXY.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/model/TransformationSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fsm/transformation/TransformationTranslate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/util/XMLUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/barnacleCrabs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/util/deepCloneUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/dragon shapes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/dragon2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/goldenSpiral.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/half dragon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/lightening boxes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/rainbowCarpet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/shrimp.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/spirals_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/treesAndCircles_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/triangles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/tripleSpirals.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/tvDragon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/tvDragon2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/tvDragon_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    <list default="true" id="97d497a6-6819-4740-8650-c2a41417dc99" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/L-system.xml" afterPath="$PROJECT_DIR$/data/L-system.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/barnacleCrabs.xml" afterPath="$PROJECT_DIR$/data/barnacleCrabs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/dragon shapes.xml" afterPath="$PROJECT_DIR$/data/dragon shapes.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/dragon2.xml" afterPath="$PROJECT_DIR$/data/dragon2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/goldenSpiral.xml" afterPath="$PROJECT_DIR$/data/goldenSpiral.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/half dragon.xml" afterPath="$PROJECT_DIR$/data/half dragon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/lightening boxes.xml" afterPath="$PROJECT_DIR$/data/lightening boxes.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/rainbowCarpet.xml" afterPath="$PROJECT_DIR$/data/rainbowCarpet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FractalShapeMaker.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="97d497a6-6819-4740-8650-c2a41417dc99" time="1388874902774" ignored="false" />
+    <file path="/Dummy.txt" changelist="97d497a6-6819-4740-8650-c2a41417dc99" time="1388875295433" ignored="false" />
     <file path="/pom.xml" changelist="97d497a6-6819-4740-8650-c2a41417dc99" time="1388864436033" ignored="false" />
     <file path="/a.dummy" changelist="97d497a6-6819-4740-8650-c2a41417dc99" time="1388875146339" ignored="false" />
     <file path="/ToolsShapePanel.java" changelist="97d497a6-6819-4740-8650-c2a41417dc99" time="1388867121865" ignored="false" />
@@ -587,13 +537,18 @@
       <created>1388864378084</created>
       <updated>1388864378084</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1388875531094</created>
+      <updated>1388875531094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="29" width="1420" height="860" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -612,8 +567,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.67027026" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.67027026" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
