@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FractalShapeLibrary>
+    <FractalShape background="0,0,0" initialTFIndex="2" level="10">
+        <Transforms>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="-0.25" transY="0.0"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.0" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="90.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="0,255,0" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.25" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationScale scale="0.5"/>
+                <TransformationScaleXY scaleX="0.25" scaleY="1.0"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="4" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="2" level="10">
+        <Transforms>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="-0.25" transY="0.0"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.0" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="90.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="0,255,0" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.25" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationScale scale="0.33333"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="4" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="2" level="8">
+        <Transforms>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="-0.25" transY="0.0"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+                <TransformationScaleXY scaleX="-1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.0" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="90.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="255,0,0" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="180.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.25" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="0.233333"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="4" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="2" level="8">
+        <Transforms>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="-0.25" transY="0.0"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+                <TransformationScaleXY scaleX="-1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.0" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="90.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="255,0,0" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="180.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.25" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="0.3"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="4" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="2" level="6">
+        <Transforms>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="-0.25" transY="0.0"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="-1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.0" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="90.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="0,255,0" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.25" transY="0.5"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="0.25"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.5" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="-90.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="-1.0"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="4" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="2" level="99">
+        <Transforms>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="-0.25" transY="0.0"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+                <TransformationScaleXY scaleX="-1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.0" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="90.0"/>
+                <TransformationScaleXY scaleX="-1.0" scaleY="-1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="51,51,255" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.25" transY="0.5"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="0.0"/>
+                <TransformationScaleXY scaleX="-1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationTranslate transX="0.25" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="false">
+                <TransformationTranslate transX="0.5" transY="0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationRotate angle="-90.0"/>
+                <TransformationScaleXY scaleX="-1.0" scaleY="1.0"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="4" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="0" level="9">
+        <Transforms>
+            <TransformationSequence color="0,255,0" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="0.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="90.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="180.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="-90.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="1" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="0" level="9">
+        <Transforms>
+            <TransformationSequence color="0,0,255" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="0.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="90.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="180.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="-90.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationScale scale="0.3333333"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="1" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="0" level="9">
+        <Transforms>
+            <TransformationSequence color="0,0,255" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="0.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="90.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="180.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="-90.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="false">
+                <TransformationScale scale="0.3333333"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="1" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="0" level="9">
+        <Transforms>
+            <TransformationSequence color="0,0,255" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.05"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="0.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="90.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.05"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="180.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="-90.0"/>
+                <TransformationTranslate transX="-0.166666" transY="0.33333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.666666" scaleY="0.333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.05"
+                name="No Name" recurse="true">
+                <TransformationScale scale="0.3333333"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="1" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="0" level="11">
+        <Transforms>
+            <TransformationSequence color="0,0,255" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="180.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="0.0"/>
+                <TransformationTranslate transX="0.0" transY="0.25"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="0.5"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="-0.25" transY="-0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+                <TransformationRotate angle="-90.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.25" transY="-0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+                <TransformationRotate angle="90.0"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="1" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="0" level="9">
+        <Transforms>
+            <TransformationSequence color="0,0,255" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="180.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="0.0"/>
+                <TransformationTranslate transX="0.0" transY="0.25"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="0.5"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="-0.25" transY="-0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+                <TransformationRotate angle="-90.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.25" transY="-0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+                <TransformationRotate angle="-90.0"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="1" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="0" level="10">
+        <Transforms>
+            <TransformationSequence color="0,0,255" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="180.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="0.0"/>
+                <TransformationTranslate transX="0.0" transY="0.25"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="0.5"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="-0.25" transY="-0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+                <TransformationRotate angle="90.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationTranslate transX="0.25" transY="-0.25"/>
+                <TransformationScale scale="0.5"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+                <TransformationRotate angle="-90.0"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="1" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="0" level="7">
+        <Transforms>
+            <TransformationSequence color="0,0,255" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="0.0"/>
+                <TransformationTranslate transX="0.0" transY="0.333333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="0.333333333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="0.0"/>
+                <TransformationTranslate transX="0.0" transY="-0.333333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="0.333333333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="90.0"/>
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="0.333333333333"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="1" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+    <FractalShape background="0,0,0" initialTFIndex="0" level="7">
+        <Transforms>
+            <TransformationSequence color="0,0,255" hueDelta="0.0"
+                name="Inital Transformation" recurse="false">
+                <TransformationRotate angle="0.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.0"
+                name="Shape Transformation" recurse="false">
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="0.0"/>
+                <TransformationTranslate transX="0.0" transY="0.333333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="0.333333333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="-0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="0.0"/>
+                <TransformationTranslate transX="0.0" transY="-0.333333333"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="1.0" scaleY="0.333333333333"/>
+            </TransformationSequence>
+            <TransformationSequence color="null" hueDelta="0.1"
+                name="No Name" recurse="true">
+                <TransformationRotate angle="90.0"/>
+                <TransformationTranslate transX="0.0" transY="0.0"/>
+                <TransformationScale scale="1.0"/>
+                <TransformationScaleXY scaleX="0.3333333333333" scaleY="1.0"/>
+            </TransformationSequence>
+        </Transforms>
+        <ElementShapes>
+            <ElementShape baseTransform="1" color="null" fill="true" onlyDrawLast="false">
+                <Shape>
+                    <GeneralPath>
+                        <Point x="-0.5" y="-0.5"/>
+                        <Point x="-0.5" y="0.5"/>
+                        <Point x="0.5" y="0.5"/>
+                        <Point x="0.5" y="-0.5"/>
+                    </GeneralPath>
+                </Shape>
+            </ElementShape>
+        </ElementShapes>
+    </FractalShape>
+</FractalShapeLibrary>
