@@ -12,6 +12,9 @@ Settings are saved as xml.
 
 
 
- 
+ ![image](screens/screen-a.png)
+
+
+ ![image](screens/screen-b.png)
 
 
