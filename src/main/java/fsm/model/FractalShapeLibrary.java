@@ -27,8 +27,14 @@ import org.w3c.dom.NodeList;
 import util.XMLUtils;
 import util.deepCloneUtil;
 
-import com.sun.org.apache.xml.internal.serialize.OutputFormat;
-import com.sun.org.apache.xml.internal.serialize.XMLSerializer;
+//import com.sun.org.apache.xml.internal.serialize.OutputFormat;
+//import com.sun.org.apache.xml.internal.serialize.XMLSerializer;
+import javax.xml.transform.OutputKeys;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
+
 
 public class FractalShapeLibrary implements Serializable
 {
@@ -195,7 +201,7 @@ public class FractalShapeLibrary implements Serializable
 			root.appendChild(e);
 		}
 
-
+/*
 		FileOutputStream out = new FileOutputStream(file);
 		OutputFormat format = new OutputFormat(document);
 		format.setIndenting(true);
@@ -204,6 +210,22 @@ public class FractalShapeLibrary implements Serializable
 		output.serialize(document);
 		out.flush();
 		out.close();
+*/
+
+		// ...
+		TransformerFactory transformerFactory = TransformerFactory.newInstance();
+		Transformer transformer = transformerFactory.newTransformer();
+
+// Configure indenting (matches the behavior of OutputFormat)
+		transformer.setOutputProperty(OutputKeys.INDENT, "yes");
+		transformer.setOutputProperty("{http://apache.org}indent-amount", "2");
+
+		DOMSource source = new DOMSource(document);
+		StreamResult result = new StreamResult(new FileOutputStream(file));
+		transformer.transform(source, result);
+
+
+
 
 	}
 

@@ -10,8 +10,6 @@ package fsm.model;
 
 import java.awt.*;
 
-import sun.security.action.GetBooleanAction;
-
 public class FractalRenderState
 {
 
