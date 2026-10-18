@@ -3,34 +3,33 @@
  * Description:  <p>
  * Copyright:    Copyright (c) <p>
  * Company:      <p>
- * @author 
+ *
+ * @author
  * @version 1.0
  */
 package fsm.transformation;
 
-import java.awt.geom.*;
-import java.io.*;
-
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 
-abstract public class Transformation implements Serializable
-{
+import java.awt.geom.AffineTransform;
+import java.io.Serializable;
 
-	static final long serialVersionUID = -7080059040162915697L;
+abstract public class Transformation implements Serializable {
 
-
-	public AffineTransform transform = new AffineTransform();
-
-
-	public Transformation()
-	{
-	}
+    static final long serialVersionUID = -7080059040162915697L;
 
 
-	public abstract String getDisplayString();
+    public AffineTransform transform = new AffineTransform();
 
 
-	abstract public Node toXML(Document document);
+    public Transformation() {
+    }
+
+
+    public abstract String getDisplayString();
+
+
+    abstract public Node toXML(Document document);
 
 }

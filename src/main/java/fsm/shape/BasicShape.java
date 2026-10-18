@@ -1,14 +1,13 @@
 package fsm.shape;
 
-import java.awt.Shape;
-
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
-public interface BasicShape extends Shape
-{
+import java.awt.*;
 
-	public Element toXML(Document document);
+public interface BasicShape extends Shape {
+
+    Element toXML(Document document);
 
 
 }
