@@ -437,9 +437,9 @@ public class ToolsFrame extends JFrame {
         gridLayout1.setColumns(1);
         gridLayout1.setRows(0);
         borderLayout14.setVgap(1);
-        jScrollPane2.setPreferredSize(new Dimension(100, 131));
-        jScrollPane3.setPreferredSize(new Dimension(100, 131));
-        jScrollPane4.setPreferredSize(new Dimension(100, 131));
+        jScrollPane2.setPreferredSize(new Dimension(100, 500));
+        jScrollPane3.setPreferredSize(new Dimension(100, 500));
+        jScrollPane4.setPreferredSize(new Dimension(100, 500));
         jPanel10.setLayout(borderLayout17);
         jPanel15.setLayout(borderLayout18);
         TransformationPanel.setPreferredSize(new Dimension(150, 301));

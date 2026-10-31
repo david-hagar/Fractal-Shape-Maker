@@ -1,25 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <FractalShapeLibrary>
     <FractalShape background="0,0,0,255" initialTFIndex="2" level="99">
         <Transforms>
-            <TransformationSequence color="null" hueDelta="0.05"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.05" name="Transformation" recurse="true">
                 <TransformationTranslate transX="1.0" transY="0.0"/>
                 <TransformationScale scale="0.707099974155426"/>
                 <TransformationRotate angle="-45.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.05"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.05" name="Transformation" recurse="true">
                 <TransformationTranslate transX="-1.0" transY="0.0"/>
                 <TransformationScale scale="0.707099974155426"/>
                 <TransformationRotate angle="-45.0"/>
             </TransformationSequence>
-            <TransformationSequence color="255,0,0,255" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="255,0,0,255" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="90.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false"/>
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false"/>
         </Transforms>
         <ElementShapes>
             <ElementShape baseTransform="3" color="null" onlyDrawLast="false">
@@ -31,28 +27,23 @@
     </FractalShape>
     <FractalShape background="0,0,0,255" initialTFIndex="2" level="99">
         <Transforms>
-            <TransformationSequence color="null" hueDelta="0.07"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.07" name="Transformation" recurse="true">
                 <TransformationTranslate transX="-0.5" transY="0.0"/>
                 <TransformationScale scale="0.707099974155426"/>
                 <TransformationRotate angle="45.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="-0.02"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="-0.02" name="Transformation" recurse="true">
                 <TransformationTranslate transX="-1.0" transY="0.0"/>
                 <TransformationScale scale="0.707099974155426"/>
                 <TransformationRotate angle="10.0"/>
             </TransformationSequence>
-            <TransformationSequence color="0,0,255,128" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="0,0,255,128" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="180.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.0" name="Transformation" recurse="false">
                 <TransformationTranslate transX="0.0" transY="0.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false"/>
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false"/>
         </Transforms>
         <ElementShapes>
             <ElementShape baseTransform="4" color="null" onlyDrawLast="false">
@@ -64,24 +55,20 @@
     </FractalShape>
     <FractalShape background="0,0,0,255" initialTFIndex="2" level="99">
         <Transforms>
-            <TransformationSequence color="null" hueDelta="-0.05"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="-0.05" name="Transformation" recurse="true">
                 <TransformationTranslate transX="1.0" transY="0.0"/>
                 <TransformationScale scale="0.707099974155426"/>
                 <TransformationRotate angle="10.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.05"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.05" name="Transformation" recurse="true">
                 <TransformationTranslate transX="-1.0" transY="0.0"/>
                 <TransformationScale scale="0.707099974155426"/>
                 <TransformationRotate angle="45.0"/>
             </TransformationSequence>
-            <TransformationSequence color="255,51,51,255" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="255,51,51,255" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="90.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false">
                 <TransformationTranslate transX="0.0" transY="1.0"/>
             </TransformationSequence>
         </Transforms>
@@ -93,32 +80,27 @@
             </ElementShape>
         </ElementShapes>
     </FractalShape>
-    <FractalShape background="0,0,0,255" initialTFIndex="2" level="9">
+    <FractalShape background="0,0,0,255" initialTFIndex="2" level="21">
         <Transforms>
-            <TransformationSequence color="255,51,51,255"
-                hueDelta="-0.1" name="Transformation" recurse="true">
+            <TransformationSequence color="255,51,51,255" hueDelta="-0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="-1.0" transY="0.0"/>
                 <TransformationScale scale="0.8999999761581421"/>
                 <TransformationRotate angle="0.0"/>
                 <TransformationScaleXY scaleX="1.0" scaleY="0.5"/>
             </TransformationSequence>
-            <TransformationSequence color="0,255,0,255" hueDelta="0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="0,255,0,255" hueDelta="0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="0.0" transY="1.5"/>
                 <TransformationScale scale="0.8999999761581421"/>
                 <TransformationRotate angle="-90.0"/>
                 <TransformationScaleXY scaleX="0.5" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="255,51,51,255" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="255,51,51,255" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="0.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.0" name="Transformation" recurse="false">
                 <TransformationTranslate transX="0.0" transY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false"/>
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false"/>
         </Transforms>
         <ElementShapes>
             <ElementShape baseTransform="4" color="null" onlyDrawLast="false">
@@ -128,32 +110,27 @@
             </ElementShape>
         </ElementShapes>
     </FractalShape>
-    <FractalShape background="0,0,0,255" initialTFIndex="2" level="11">
+    <FractalShape background="0,0,0,255" initialTFIndex="2" level="20">
         <Transforms>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="0.699999988079071" transY="0.699999988079071"/>
                 <TransformationScale scale="0.8999999761581421"/>
                 <TransformationRotate angle="-20.0"/>
                 <TransformationScaleXY scaleX="1.0" scaleY="0.6000000238418579"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="-0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="-0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="-0.10000000149011612" transY="1.0"/>
                 <TransformationScale scale="0.8999999761581421"/>
                 <TransformationRotate angle="0.0"/>
                 <TransformationScaleXY scaleX="0.6000000238418579" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="255,51,51,255" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="255,51,51,255" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="45.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.0" name="Transformation" recurse="false">
                 <TransformationTranslate transX="0.0" transY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false"/>
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false"/>
         </Transforms>
         <ElementShapes>
             <ElementShape baseTransform="4" color="null" onlyDrawLast="false">
@@ -163,32 +140,27 @@
             </ElementShape>
         </ElementShapes>
     </FractalShape>
-    <FractalShape background="0,0,0,255" initialTFIndex="2" level="11">
+    <FractalShape background="0,0,0,255" initialTFIndex="2" level="19">
         <Transforms>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="-1.0" transY="0.0"/>
                 <TransformationScale scale="0.699999988079071"/>
                 <TransformationRotate angle="0.0"/>
                 <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="-0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="-0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="-0.10000000149011612" transY="1.0"/>
                 <TransformationScale scale="0.8999999761581421"/>
                 <TransformationRotate angle="0.0"/>
                 <TransformationScaleXY scaleX="0.6000000238418579" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="255,51,51,255" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="255,51,51,128" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="0.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.0" name="Transformation" recurse="false">
                 <TransformationTranslate transX="0.0" transY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false"/>
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false"/>
         </Transforms>
         <ElementShapes>
             <ElementShape baseTransform="4" color="null" onlyDrawLast="false">
@@ -205,32 +177,27 @@
     </FractalShape>
     <FractalShape background="0,0,0,255" initialTFIndex="2" level="10">
         <Transforms>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="false">
                 <TransformationTranslate transX="-1.0" transY="0.0"/>
                 <TransformationScale scale="0.699999988079071"/>
                 <TransformationRotate angle="0.0"/>
                 <TransformationScaleXY scaleX="0.6000000238418579" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="-0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="-0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="-1.7999999523162842" transY="0.0"/>
                 <TransformationScale scale="0.6000000238418579"/>
                 <TransformationRotate angle="-90.0"/>
                 <TransformationScaleXY scaleX="0.6000000238418579" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="255,51,51,255" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="255,51,51,255" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="0.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="0.0" transY="1.0"/>
                 <TransformationScale scale="1.0"/>
                 <TransformationScaleXY scaleX="1.2000000476837158" scaleY="0.6000000238418579"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false">
                 <TransformationScaleXY scaleX="0.5" scaleY="1.2000000476837158"/>
             </TransformationSequence>
         </Transforms>
@@ -249,32 +216,27 @@
     </FractalShape>
     <FractalShape background="0,0,0,255" initialTFIndex="3" level="13">
         <Transforms>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="false">
                 <TransformationTranslate transX="-1.0" transY="0.0"/>
                 <TransformationScale scale="0.699999988079071"/>
                 <TransformationRotate angle="0.0"/>
                 <TransformationScaleXY scaleX="0.6000000238418579" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="0.0" transY="1.0"/>
                 <TransformationScale scale="1.0"/>
                 <TransformationScaleXY scaleX="1.2000000476837158" scaleY="0.6000000238418579"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="-0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="-0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="0.5" transY="-2.0"/>
                 <TransformationScale scale="0.6000000238418579"/>
                 <TransformationRotate angle="0.0"/>
                 <TransformationScaleXY scaleX="0.6000000238418579" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="255,51,51,255" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="255,51,51,255" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="0.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false">
                 <TransformationScaleXY scaleX="0.5" scaleY="1.2000000476837158"/>
             </TransformationSequence>
         </Transforms>
@@ -293,32 +255,27 @@
     </FractalShape>
     <FractalShape background="0,0,0,255" initialTFIndex="3" level="18">
         <Transforms>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="false">
                 <TransformationTranslate transX="-1.0" transY="0.0"/>
                 <TransformationScale scale="0.699999988079071"/>
                 <TransformationRotate angle="0.0"/>
                 <TransformationScaleXY scaleX="0.6000000238418579" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="-0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="-0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="0.0" transY="0.0"/>
                 <TransformationScale scale="0.6000000238418579"/>
                 <TransformationRotate angle="-90.0"/>
                 <TransformationScaleXY scaleX="0.699999988079071" scaleY="1.100000023841858"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="0.0" transY="1.0"/>
                 <TransformationScale scale="1.0"/>
                 <TransformationScaleXY scaleX="1.100000023841858" scaleY="0.699999988079071"/>
             </TransformationSequence>
-            <TransformationSequence color="255,51,51,128" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="255,51,51,128" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="180.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false">
                 <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
             </TransformationSequence>
         </Transforms>
@@ -337,32 +294,27 @@
     </FractalShape>
     <FractalShape background="0,0,0,255" initialTFIndex="3" level="17">
         <Transforms>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="false">
                 <TransformationTranslate transX="-1.0" transY="0.0"/>
                 <TransformationScale scale="0.699999988079071"/>
                 <TransformationRotate angle="0.0"/>
                 <TransformationScaleXY scaleX="0.6000000238418579" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="0.0" transY="1.0"/>
                 <TransformationScale scale="1.0"/>
                 <TransformationScaleXY scaleX="1.100000023841858" scaleY="0.699999988079071"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="-0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="-0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="0.0" transY="0.0"/>
                 <TransformationScale scale="0.6000000238418579"/>
                 <TransformationRotate angle="-120.0"/>
                 <TransformationScaleXY scaleX="0.699999988079071" scaleY="1.100000023841858"/>
             </TransformationSequence>
-            <TransformationSequence color="255,51,51,128" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="255,51,51,128" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="180.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false">
                 <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
             </TransformationSequence>
         </Transforms>
@@ -381,32 +333,27 @@
     </FractalShape>
     <FractalShape background="0,0,0,255" initialTFIndex="3" level="14">
         <Transforms>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="false">
                 <TransformationTranslate transX="-1.0" transY="0.0"/>
                 <TransformationScale scale="0.699999988079071"/>
                 <TransformationRotate angle="0.0"/>
                 <TransformationScaleXY scaleX="0.6000000238418579" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="0.0" transY="1.0"/>
                 <TransformationScale scale="1.0"/>
                 <TransformationScaleXY scaleX="1.2000000476837158" scaleY="0.699999988079071"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="-0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="-0.1" name="Transformation" recurse="true">
                 <TransformationRotate angle="0.0"/>
                 <TransformationTranslate transX="0.0" transY="-3.0"/>
                 <TransformationScale scale="0.5"/>
                 <TransformationScaleXY scaleX="0.6000000238418579" scaleY="1.100000023841858"/>
             </TransformationSequence>
-            <TransformationSequence color="255,51,51,255" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="255,51,51,255" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="180.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false">
                 <TransformationScaleXY scaleX="0.8999999761581421" scaleY="1.0"/>
             </TransformationSequence>
         </Transforms>
@@ -425,32 +372,27 @@
     </FractalShape>
     <FractalShape background="0,0,0,255" initialTFIndex="3" level="19">
         <Transforms>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="false">
                 <TransformationTranslate transX="-1.0" transY="0.0"/>
                 <TransformationScale scale="0.699999988079071"/>
                 <TransformationRotate angle="0.0"/>
                 <TransformationScaleXY scaleX="0.6000000238418579" scaleY="1.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="0.0" transY="1.0"/>
                 <TransformationScale scale="1.0"/>
                 <TransformationScaleXY scaleX="1.100000023841858" scaleY="0.699999988079071"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="-0.1"
-                name="Transformation" recurse="true">
+            <TransformationSequence color="null" hueDelta="-0.1" name="Transformation" recurse="true">
                 <TransformationTranslate transX="1.0" transY="0.0"/>
                 <TransformationScale scale="0.5"/>
                 <TransformationRotate angle="-100.0"/>
                 <TransformationScaleXY scaleX="0.699999988079071" scaleY="1.100000023841858"/>
             </TransformationSequence>
-            <TransformationSequence color="255,51,51,191" hueDelta="0.0"
-                name="Inital Transformation" recurse="false">
+            <TransformationSequence color="255,51,51,191" hueDelta="0.0" name="Inital Transformation" recurse="false">
                 <TransformationRotate angle="180.0"/>
             </TransformationSequence>
-            <TransformationSequence color="null" hueDelta="0.0"
-                name="Shape Transformation" recurse="false">
+            <TransformationSequence color="null" hueDelta="0.0" name="Shape Transformation" recurse="false">
                 <TransformationScaleXY scaleX="1.0" scaleY="1.0"/>
             </TransformationSequence>
         </Transforms>
